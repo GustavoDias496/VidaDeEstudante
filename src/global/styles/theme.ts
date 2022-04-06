@@ -12,6 +12,10 @@ export default{
 
         income: '#12a454',
         expense: 'D40404',
+    },
 
+    fonts: {
+        fontTitle: 'ReemKufi_400Regular',
+        regular: 'Syne_400Regular'
     }
-}
+} 
