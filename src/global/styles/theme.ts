@@ -11,7 +11,7 @@ export default{
         background: 'white',
 
         income: '#12a454',
-        expense: 'D40404',
+        expense: '#D40404',
     },
 
     fonts: {
